@@ -376,10 +376,10 @@ akshare (function stock_zh_a_hist, forward-adjusted prices), which redistributes
 available market data from East Money. The complete analysis pipeline, including panel
 construction, factor IC tables, model scores, net value series, placebo draws and the
 assertion table mapping every reported number in this paper to its source file, is openly
-available as a versioned code archive from the corresponding author on request, and will
-be deposited in a public repository upon acceptance. Any figure in this paper can be
-regenerated from those files by running the scripts in the order documented in the archive
-README.
+available at https://github.com/ZhaoyongChao-Blip/from-signal-to-style (release v1.0) under
+an MIT licence, and is archived with a permanent DOI on Zenodo (to be inserted at
+acceptance). Any figure in this paper can be regenerated from those files by running the
+scripts in the order documented in the archive README.
 
 ## References
 
