@@ -2,6 +2,8 @@
 
 **Code, intermediate artefacts and audit trail for the manuscript**
 
+<https://github.com/ZhaoyongChao-Blip/from-signal-to-style> · release `v1.0` · MIT
+
 > *The bet was directional; the summary statistic was not.*
 
 This archive accompanies a paper submitted to *Quantitative Finance*. It contains the
