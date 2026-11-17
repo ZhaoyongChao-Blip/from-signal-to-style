@@ -27,12 +27,13 @@
       "resource_type": "software"
     }
   ],
-  "notes": "Set related_identifiers to the published article DOI with relation 'isSupplementTo' once the paper is accepted.",
+  "notes": "Published 2026-11-17 as Zenodo record 24297971. Concept DOI (all versions): 10.5281/zenodo.24297970. Set related_identifiers to the article DOI with relation isSupplementTo once the paper is accepted.",
   "subjects": [
     {
       "term": "Quantitative Finance",
       "identifier": "q-fin"
     }
   ],
-  "version": "1.0"
+  "version": "1.0",
+  "doi": "10.5281/zenodo.24297971"
 }

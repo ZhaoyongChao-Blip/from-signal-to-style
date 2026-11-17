@@ -4,6 +4,8 @@
 
 <https://github.com/ZhaoyongChao-Blip/from-signal-to-style> · release `v1.0` · MIT
 
+Archived with a permanent DOI: **10.5281/zenodo.24297971**
+
 > *The bet was directional; the summary statistic was not.*
 
 This archive accompanies a paper submitted to *Quantitative Finance*. It contains the
@@ -112,12 +114,13 @@ publicly available from their original source. Code is released under the MIT li
 ```bibtex
 @misc{signal2style2026,
   title  = {From Signal to Style: A Directional Bet Disguised as Selection Skill},
-  author = {<author>},
+  author = {Zhao, Yongchao},
   year   = {2026},
   note   = {Code and replication archive, version 1.0},
-  doi    = {10.5281/zenodo.XXXXXXX}
+  doi    = {10.5281/zenodo.24297971}
 }
 ```
 
-The DOI is minted by Zenodo on first publication of this record; replace `XXXXXXX` above
-with the value shown on the Zenodo record page.
+Archived record: <https://zenodo.org/records/24297971> · DOI **10.5281/zenodo.24297971**
+(version 1.0, published 2026-11-17, citable as-is; later revisions get their own version DOI
+under the same concept DOI).

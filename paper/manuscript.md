@@ -375,11 +375,10 @@ stocks over 2014-01-01 to 2025-11-10 were retrieved through the open-source Pyth
 akshare (function stock_zh_a_hist, forward-adjusted prices), which redistributes publicly
 available market data from East Money. The complete analysis pipeline, including panel
 construction, factor IC tables, model scores, net value series, placebo draws and the
-assertion table mapping every reported number in this paper to its source file, is openly
-available at https://github.com/ZhaoyongChao-Blip/from-signal-to-style (release v1.0) under
-an MIT licence, and is archived with a permanent DOI on Zenodo (to be inserted at
-acceptance). Any figure in this paper can be regenerated from those files by running the
-scripts in the order documented in the archive README.
+assertion table mapping every reported number in this paper to its source file, is available at https://github.com/ZhaoyongChao-Blip/from-signal-to-style (release v1.0) under
+an MIT licence, and is permanently archived at
+https://doi.org/10.5281/zenodo.24297971. Any figure in this paper can be regenerated from
+those files by running the scripts in the order documented in the archive README.
 
 ## References
 
