@@ -113,7 +113,7 @@ publicly available from their original source. Code is released under the MIT li
 
 ```bibtex
 @misc{signal2style2026,
-  title  = {From Signal to Style: A Directional Bet Disguised as Selection Skill},
+  title  = {From Signal to Style: A Full-Chain Reassessment of Technical-Factor Stock Selection in the Chinese A-Share Market},
   author = {Zhao, Yongchao},
   year   = {2026},
   note   = {Code and replication archive, version 1.0},

@@ -1,5 +1,5 @@
 {
-  "title": "From Signal to Style: A Directional Bet Disguised as Selection Skill",
+  "title": "From Signal to Style: A Full-Chain Reassessment of Technical-Factor Stock Selection in the Chinese A-Share Market",
   "upload_type": "software",
   "description": "<p>Complete analysis pipeline, intermediate artefacts and audit trail for a study of a gradient-boosted cross-sectional return model on Chinese A-shares (3,317 stocks, 2014-01-01 to 2025-11-10).</p><p>The paper reports a negative result. A LightGBM model on 46 price/volume features earns a genuine out-of-sample IC of 0.0865 (t = 5.25 after overlap correction) and a within-style-cell 5-day return of 0.713% (t = 3.47), yet under realized-execution accounting the long book underperforms the equal-weighted market by 9.43 percentage points a year. Conditioning on the sign of the benchmark return shows the strategy is short beta: it loses 0.50% a day when the market rises and gains 0.66% when it falls, while the time-weighted average excess is indistinguishable from zero. The model learned a position, not a forecast.</p><p>The archive ships every script in run order, all 88 intermediate data files cited by the manuscript, model scores for four label variants, a number-to-source assertion table (docs/ASSERTIONS.md), and a replication log recording exactly what was re-run at release and what was not (results/REPLICATION_CHECK.md). Everything downstream of the feature panel runs offline. The 2.1 GB panel itself is not shipped; it rebuilds from data/raw/list.csv plus the fetch and feature scripts.</p>",
   "creators": [
@@ -27,7 +27,7 @@
       "resource_type": "software"
     }
   ],
-  "notes": "Published 2026-11-17 as Zenodo record 24297971. Concept DOI (all versions): 10.5281/zenodo.24297970. Set related_identifiers to the article DOI with relation isSupplementTo once the paper is accepted.",
+  "notes": "Published 2026-11-17 as Zenodo record 24297971. Concept DOI (all versions): 10.5281/zenodo.24297970. Title below matches the manuscript. The record title as first published carried a different subtitle and was corrected on 2026-11-17 (metadata-only edit; DOI and files unchanged). Set related_identifiers to the article DOI with relation isSupplementTo once the paper is accepted.",
   "subjects": [
     {
       "term": "Quantitative Finance",
