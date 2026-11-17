@@ -34,7 +34,7 @@ STAGES = ["01_fetch", "02_features", "03_models", "04_backtest", "05_diagnostics
           "06_walkforward", "07_attribution", "08_figures", "09_audit", "10_build"]
 
 DIRS = ["data/raw", "data/raw/daily", "data/raw/adj", "data/raw/index",
-        "data/proc", "figs", "models", "output", "logs"]
+        "data/proc", "figs", "models", "output", "logs", "paper"]
 
 
 def link_or_copy(src, dst):
@@ -67,13 +67,31 @@ def build():
     seeds = [
         ("data_raw/list.csv",      "data/raw/list.csv"),
         ("data_raw/feat_meta.json", "data/proc/feat_meta.json"),
+        ("paper/numbers.json",      "paper/numbers.json"),
         ("paper/numbers.json",      "output/numbers.json"),
-        ("paper/refs_final.json",   "output/refs_final.json"),
+        ("paper/manuscript.md",     "paper/paper.md"),
+        ("paper/refs_final.json",   "paper/refs_final.json"),
     ]
     for src, dst in seeds:
         s = os.path.join(RELROOT, src)
         if os.path.exists(s):
             report["seed:" + dst] = link_or_copy(s, os.path.join(WORK, dst))
+
+    # shipped intermediates: results/* -> work/output/*  (post-model stages read these)
+    res = os.path.join(RELROOT, "results")
+    if os.path.isdir(res):
+        for fn in sorted(os.listdir(res)):
+            if fn.endswith((".csv", ".md", ".json", ".txt")):
+                report["output/" + fn] = link_or_copy(
+                    os.path.join(res, fn), os.path.join(WORK, "output", fn))
+
+        # PDFs referenced by the audit scripts live under paper/ in the original tree
+    papers = os.path.join(RELROOT, "paper")
+    if os.path.isdir(papers):
+        for fn in sorted(os.listdir(papers)):
+            if fn.endswith(".pdf"):
+                report["paper/" + fn] = link_or_copy(
+                    os.path.join(papers, fn), os.path.join(WORK, "paper", fn))
 
     # figures + model scores
     for sub, pattern_dir in (("figures", "figs"), ("assets", "models")):
@@ -93,11 +111,11 @@ def check(report):
     if not os.path.exists(meta_path):
         problems.append("feat_meta.json missing — run without --check first")
     else:
-        meta = json.load(open(meta_path, encoding="utf-8"))
-        if meta["stats"]["ok"] != 3317:
-            problems.append("stock universe != 3317 (%s)" % meta["stats"]["ok"])
-        if meta["n_factors"] != 46:
-            problems.append("n_factors != 46 (%s)" % meta["n_factors"])
+        metadata = json.load(open(meta_path, encoding="utf-8"))
+        if metadata["stats"]["ok"] != 3317:
+            problems.append("stock universe != 3317 (%s)" % metadata["stats"]["ok"])
+        if metadata["n_factors"] != 46:
+            problems.append("n_factors != 46 (%s)" % metadata["n_factors"])
 
     panel = os.path.join(WORK, "data/proc/panel.parquet")
     if not os.path.exists(panel):
