@@ -1,0 +1,10 @@
+work/
+*.parquet
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+*.log.bak
+temp_*/

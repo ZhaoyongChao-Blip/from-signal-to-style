@@ -1,0 +1,12 @@
+# Exact environment in which results/REPLICATION_CHECK.md was produced.
+# Versions are pinned to what actually ran, not to "latest".
+lightgbm==4.7.0
+pandas==3.0.5
+numpy==2.4.6
+scipy==1.18.0
+matplotlib==3.10.8
+akshare==1.18.64
+python-docx>=1.1
+PyMuPDF==1.28.0
+requests>=2.32
+pyarrow>=15.0

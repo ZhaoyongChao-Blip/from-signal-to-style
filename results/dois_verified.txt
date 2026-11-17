@@ -1,0 +1,39 @@
+PASS	10.1016/s0304-405x(02)00068-5	title_ok=True author_ok=True(Ang/Ang) year_ok=True(2002/2002)	Asymmetric correlations of equity portfolios	Asymmetric correlations of equity portfolios
+PASS	10.1111/jofi.12021	title_ok=True author_ok=True(ASNESS/Asness) year_ok=True(2013/2013)	Value and Momentum Everywhere	Value and momentum everywhere
+PASS	10.1287/mnsc.2022.4449	title_ok=True author_ok=True(Avramov/Avramov) year_ok=True(2023/2023)	Machine Learning vs. Economic Restrictions: Evidence from Stock Return	Machine learning vs. economic restrictions: Evidence from stock return
+PASS	10.3905/jpm.2014.40.5.094	title_ok=True author_ok=True(Bailey/Bailey) year_ok=True(2014/2014)	The Deflated Sharpe Ratio:
+                    <i>Correcting for Selec	The deflated Sharpe ratio: Correcting for selection bias, backtest ove
+PASS	10.21314/jcf.2016.322	title_ok=True author_ok=True(Bailey/Bailey) year_ok=True(2016/2017)	The probability of backtest overfitting	The probability of backtest overfitting
+PASS	10.1016/s0304-405x(03)00064-3	title_ok=True author_ok=True(Barberis/Barberis) year_ok=True(2003/2003)	Style investing	Style investing
+PASS	10.1016/j.jfineco.2016.02.001	title_ok=True author_ok=True(Bollerslev/Bollerslev) year_ok=True(2016/2016)	Roughing up beta: Continuous versus discontinuous betas and the cross 	Roughing up beta: Continuous versus discontinuous betas and the cross 
+PASS	10.1111/j.1540-6261.1997.tb03808.x	title_ok=True author_ok=True(Carhart/Carhart) year_ok=True(1997/1997)	On Persistence in Mutual Fund Performance	On persistence in mutual fund performance
+PASS	10.1016/s0304-405x(99)00040-9	title_ok=True author_ok=True(Carpenter/Carpenter) year_ok=True(1999/1999)	Survivorship bias and attrition effects in measures of performance per	Survivorship bias and attrition effects in measures of performance per
+PASS	10.1287/mnsc.2023.4695	title_ok=True author_ok=True(Chen/Chen) year_ok=True(2024/2024)	Deep Learning in Asset Pricing	Deep learning in asset pricing
+PASS	10.2139/ssrn.1700191	title_ok=True author_ok=True(Chordia/Chordia) year_ok=True(2010/2011)	Recent Trends in Trading Activity and Market Quality	Recent trends in trading activity and market quality
+PASS	10.2307/2329515	title_ok=True author_ok=True(Daniel/Daniel) year_ok=True(1997/1997)	Measuring Mutual Fund Performance with Characteristic-Based Benchmarks	Measuring mutual fund performance with characteristic-based benchmarks
+PASS	10.2307/2329112	title_ok=True author_ok=True(Fama/Fama) year_ok=True(1992/1992)	The Cross-Section of Expected Stock Returns	The cross-section of expected stock returns
+PASS	10.1016/0304-405x(93)90023-5	title_ok=True author_ok=True(Fama/Fama) year_ok=True(1993/1993)	Common risk factors in the returns on stocks and bonds	Common risk factors in the returns on stocks and bonds
+PASS	10.1111/j.1540-6261.2010.01598.x	title_ok=True author_ok=True(FAMA/Fama) year_ok=True(2010/2010)	Luck versus Skill in the Cross‐Section of Mutual Fund Returns	Luck versus skill in the cross‐section of mutual fund returns
+PASS	10.1016/j.jfineco.2014.10.010	title_ok=True author_ok=True(Fama/Fama) year_ok=True(2015/2015)	A five-factor asset pricing model	A five-factor asset pricing model
+PASS	10.1111/jofi.12883	title_ok=True author_ok=True(FENG/Feng) year_ok=True(2020/2020)	Taming the Factor Zoo: A Test of New Factors	Taming the factor zoo: A test of new factors
+PASS	10.1111/j.1540-6261.1996.tb02690.x	title_ok=True author_ok=True(FERSON/Ferson) year_ok=True(1996/1996)	Measuring Fund Strategy and Performance in Changing Economic Condition	Measuring fund strategy and performance in changing economic condition
+PASS	10.1016/j.jfineco.2013.10.005	title_ok=True author_ok=True(Frazzini/Frazzini) year_ok=True(2014/2014)	Betting against beta	Betting against beta
+PASS	10.1093/rfs/hhaa009	title_ok=True author_ok=True(Gu/Gu) year_ok=True(2020/2020)	Empirical Asset Pricing via Machine Learning	Empirical asset pricing via machine learning
+PASS	10.1086/260910	title_ok=True author_ok=True(Hansen/Hansen) year_ok=True(1980/1980)	Forward Exchange Rates as Optimal Predictors of Future Spot Rates: An 	Forward exchange rates as optimal predictors of future spot rates: An 
+PASS	10.3905/jpm.2015.42.1.013	title_ok=True author_ok=True(Harvey/Harvey) year_ok=True(2015/2015)	Backtesting	Backtesting
+PASS	10.1093/rfs/hhv059	title_ok=True author_ok=True(Harvey/Harvey) year_ok=True(2016/2015)	… and the Cross-Section of Expected Returns	… and the cross-section of expected returns
+PASS	10.1111/j.1540-6261.1993.tb04702.x	title_ok=True author_ok=True(JEGADEESH/Jegadeesh) year_ok=True(1993/1993)	Returns to Buying Winners and Selling Losers: Implications for Stock M	Returns to buying winners and selling losers: Implications for stock m
+PASS	10.2307/2325404	title_ok=True author_ok=True(Jensen/Jensen) year_ok=True(1968/1968)	The Performance of Mutual Funds in the Period 1945-1964	The performance of mutual funds in the period 1945–1964
+NO-DOI	Ke, G., Meng, Q., Finley, T., Wang, T., Chen, W., Ma, W., ..			
+PASS	10.1016/j.jfineco.2021.08.017	title_ok=True author_ok=True(Leippold/Leippold) year_ok=True(2022/2022)	Machine learning in the Chinese stock market	Machine learning in the Chinese stock market
+PASS	10.1016/j.econmod.2022.105910	title_ok=True author_ok=True(Liu/Liu) year_ok=True(2022/2022)	Price overreaction to up-limit events and revised momentum strategies 	Price overreaction to up-limit events and revised momentum strategies 
+PASS	10.1016/j.jfineco.2019.03.008	title_ok=True author_ok=True(Liu/Liu) year_ok=True(2019/2019)	Size and value in China	Size and value in China
+PASS	10.2469/faj.v58.n4.2453	title_ok=True author_ok=True(Lo/Lo) year_ok=True(2002/2002)	The Statistics of Sharpe Ratios	The statistics of Sharpe ratios
+PASS	10.1111/j.1540-6261.1995.tb04795.x	title_ok=True author_ok=True(MALKIEL/Malkiel) year_ok=True(1995/1995)	Returns from Investing in Equity Mutual Funds 1971 to 1991	Returns from investing in equity mutual funds 1971 to 1991
+PASS	10.1111/jofi.12365	title_ok=True author_ok=True(MCLEAN/McLean) year_ok=True(2016/2016)	Does Academic Research Destroy Stock Return Predictability?	Does academic research destroy stock return predictability?
+PASS	10.2307/1913610	title_ok=True author_ok=True(Newey/Newey) year_ok=True(1987/1987)	A Simple, Positive Semi-Definite, Heteroskedasticity and Autocorrelati	A simple, positive semi-definite, heteroskedasticity and autocorrelati
+PASS	10.1093/rfs/hhv063	title_ok=True author_ok=True(Novy-Marx/Novy-Marx) year_ok=True(2016/2015)	A Taxonomy of Anomalies and Their Trading Costs	A taxonomy of anomalies and their trading costs
+PASS	10.1080/01621459.1994.10476870	title_ok=True author_ok=True(Politis/Politis) year_ok=True(1994/1994)	The Stationary Bootstrap	The stationary bootstrap
+PASS	10.1111/j.1468-0262.2005.00615.x	title_ok=True author_ok=True(Romano/Romano) year_ok=True(2005/2005)	Stepwise Multiple Testing as Formalized Data Snooping	Stepwise multiple testing as formalized data snooping
+PASS	10.1111/0022-1082.00263	title_ok=True author_ok=True(Wermers/Wermers) year_ok=True(2000/2000)	Mutual Fund Performance: An Empirical Decomposition into Stock‐Picking	Mutual fund performance: An empirical decomposition into stock‐picking
+PASS	10.1111/1468-0262.00152	title_ok=True author_ok=True(White/White) year_ok=True(2000/2000)	A Reality Check for Data Snooping	A reality check for data snooping

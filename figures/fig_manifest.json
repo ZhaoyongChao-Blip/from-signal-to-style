@@ -1,0 +1,42 @@
+{
+ "fig1_factor_ic.png": {
+  "fig_w_in": 5.9,
+  "min_fontsize": 7.2,
+  "n_text": 174
+ },
+ "fig2_overlap_t.png": {
+  "fig_w_in": 5.9,
+  "min_fontsize": 7.2,
+  "n_text": 30
+ },
+ "fig3_nav.png": {
+  "fig_w_in": 5.9,
+  "min_fontsize": 7.2,
+  "n_text": 36
+ },
+ "fig4_neutral.png": {
+  "fig_w_in": 5.9,
+  "min_fontsize": 7.2,
+  "n_text": 52
+ },
+ "fig5_cost.png": {
+  "fig_w_in": 5.9,
+  "min_fontsize": 7.2,
+  "n_text": 43
+ },
+ "fig6_excess_q.png": {
+  "fig_w_in": 5.9,
+  "min_fontsize": 7.2,
+  "n_text": 37
+ },
+ "fig8_roadmap.png": {
+  "fig_w_in": 6.2,
+  "min_fontsize": 7.4,
+  "n_text": 20
+ },
+ "fig7_sign.png": {
+  "fig_w_in": 5.9,
+  "min_fontsize": 7.2,
+  "n_text": 55
+ }
+}

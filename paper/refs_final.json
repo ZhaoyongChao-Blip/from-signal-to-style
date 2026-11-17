@@ -1,0 +1,536 @@
+[
+ {
+  "doi": "10.1016/s0304-405x(02)00068-5",
+  "title": "Asymmetric correlations of equity portfolios",
+  "authors": [
+   "Ang, A.",
+   "Chen, J."
+  ],
+  "year": 2002,
+  "journal": "Journal of Financial Economics",
+  "volume": "63",
+  "issue": "3",
+  "pages": "443–494",
+  "cites": 1198
+ },
+ {
+  "doi": "10.1111/jofi.12021",
+  "title": "Value and Momentum Everywhere",
+  "authors": [
+   "Asness, C. S.",
+   "Moskowitz, T. J.",
+   "Pedersen, L. H."
+  ],
+  "year": 2013,
+  "journal": "The Journal of Finance",
+  "volume": "68",
+  "issue": "3",
+  "pages": "929–985",
+  "cites": 2141
+ },
+ {
+  "doi": "10.1287/mnsc.2022.4449",
+  "title": "Machine Learning vs. Economic Restrictions: Evidence from Stock Return Predictability",
+  "authors": [
+   "Avramov, D.",
+   "Cheng, S.",
+   "Metzker, L."
+  ],
+  "year": 2023,
+  "journal": "Management Science",
+  "volume": "69",
+  "issue": "5",
+  "pages": "2587–2619",
+  "cites": 216
+ },
+ {
+  "doi": "10.3905/jpm.2014.40.5.094",
+  "title": "The Deflated Sharpe Ratio: Correcting for Selection Bias, Backtest Overfitting, and Non-Normality",
+  "authors": [
+   "Bailey, D. H.",
+   "López De Prado, M."
+  ],
+  "year": 2014,
+  "journal": "The Journal of Portfolio Management",
+  "volume": "40",
+  "issue": "5",
+  "pages": "94–107",
+  "cites": 120
+ },
+ {
+  "doi": "10.21314/jcf.2016.322",
+  "title": "The probability of backtest overfitting",
+  "authors": [
+   "Bailey, D. H.",
+   "Borwein, J. M.",
+   "López de Prado, M.",
+   "Zhu, Q. J."
+  ],
+  "year": 2017,
+  "journal": "Journal of Computational Finance",
+  "volume": "20",
+  "issue": "4",
+  "pages": "39–69",
+  "cites": 69
+ },
+ {
+  "doi": "10.1016/s0304-405x(03)00064-3",
+  "title": "Style investing",
+  "authors": [
+   "Barberis, N.",
+   "Shleifer, A."
+  ],
+  "year": 2003,
+  "journal": "Journal of Financial Economics",
+  "volume": "68",
+  "issue": "2",
+  "pages": "161–199",
+  "cites": 1026
+ },
+ {
+  "doi": "10.1016/j.jfineco.2016.02.001",
+  "title": "Roughing up beta: Continuous versus discontinuous betas and the cross section of expected stock returns",
+  "authors": [
+   "Bollerslev, T.",
+   "Li, S. Z.",
+   "Todorov, V."
+  ],
+  "year": 2016,
+  "journal": "Journal of Financial Economics",
+  "volume": "120",
+  "issue": "3",
+  "pages": "464–490",
+  "cites": 177
+ },
+ {
+  "doi": "10.1111/j.1540-6261.1997.tb03808.x",
+  "title": "On Persistence in Mutual Fund Performance",
+  "authors": [
+   "Carhart, M. M."
+  ],
+  "year": 1997,
+  "journal": "The Journal of Finance",
+  "volume": "52",
+  "issue": "1",
+  "pages": "57–82",
+  "cites": 14953
+ },
+ {
+  "doi": "10.1016/s0304-405x(99)00040-9",
+  "title": "Survivorship bias and attrition effects in measures of performance persistence",
+  "authors": [
+   "Carpenter, J. N.",
+   "Lynch, A. W."
+  ],
+  "year": 1999,
+  "journal": "Journal of Financial Economics",
+  "volume": "54",
+  "issue": "3",
+  "pages": "337–374",
+  "cites": 195
+ },
+ {
+  "doi": "10.1287/mnsc.2023.4695",
+  "title": "Deep Learning in Asset Pricing",
+  "authors": [
+   "Chen, L.",
+   "Pelger, M.",
+   "Zhu, J."
+  ],
+  "year": 2024,
+  "journal": "Management Science",
+  "volume": "70",
+  "issue": "2",
+  "pages": "714–750",
+  "cites": 410
+ },
+ {
+  "doi": "10.2139/ssrn.1700191",
+  "title": "Recent Trends in Trading Activity and Market Quality",
+  "authors": [
+   "Chordia, T.",
+   "Roll, R.",
+   "Subrahmanyam, A."
+  ],
+  "year": 2011,
+  "journal": "Journal of Financial Economics",
+  "volume": "101",
+  "issue": "2",
+  "pages": "243–263",
+  "cites": 4,
+  "note": "Crossref 返回工作论文版；正式版 JFE 2011, 101(2): 243-263"
+ },
+ {
+  "doi": "10.2307/2329515",
+  "title": "Measuring Mutual Fund Performance with Characteristic-Based Benchmarks",
+  "authors": [
+   "Daniel, K.",
+   "Grinblatt, M.",
+   "Titman, S.",
+   "Wermers, R."
+  ],
+  "year": 1997,
+  "journal": "The Journal of Finance",
+  "volume": "52",
+  "issue": "3",
+  "pages": "1035",
+  "cites": 237
+ },
+ {
+  "doi": "10.2307/2329112",
+  "title": "The Cross-Section of Expected Stock Returns",
+  "authors": [
+   "Fama, E. F.",
+   "French, K. R."
+  ],
+  "year": 1992,
+  "journal": "The Journal of Finance",
+  "volume": "47",
+  "issue": "2",
+  "pages": "427",
+  "cites": 3555
+ },
+ {
+  "doi": "10.1016/0304-405x(93)90023-5",
+  "title": "Common risk factors in the returns on stocks and bonds",
+  "authors": [
+   "Fama, E. F.",
+   "French, K. R."
+  ],
+  "year": 1993,
+  "journal": "Journal of Financial Economics",
+  "volume": "33",
+  "issue": "1",
+  "pages": "3–56",
+  "cites": 0
+ },
+ {
+  "doi": "10.1111/j.1540-6261.2010.01598.x",
+  "title": "Luck versus Skill in the Cross‐Section of Mutual Fund Returns",
+  "authors": [
+   "Fama, E. F.",
+   "French, K. R."
+  ],
+  "year": 2010,
+  "journal": "The Journal of Finance",
+  "volume": "65",
+  "issue": "5",
+  "pages": "1915–1947",
+  "cites": 1376
+ },
+ {
+  "doi": "10.2139/ssrn.2287202",
+  "title": "A Five-Factor Asset Pricing Model",
+  "authors": [
+   "Fama, E. F.",
+   "French, K. R."
+  ],
+  "year": 2015,
+  "journal": "Journal of Financial Economics",
+  "volume": "116",
+  "issue": "1",
+  "pages": "1–22",
+  "cites": 23,
+  "note": "Crossref 返回的是 SSRN 预印版（2013）；正式版 JFE 2015, 116(1): 1-22"
+ },
+ {
+  "doi": "10.1111/jofi.12883",
+  "title": "Taming the Factor Zoo: A Test of New Factors",
+  "authors": [
+   "Feng, G.",
+   "Giglio, S.",
+   "Xiu, D."
+  ],
+  "year": 2020,
+  "journal": "The Journal of Finance",
+  "volume": "75",
+  "issue": "3",
+  "pages": "1327–1370",
+  "cites": 703
+ },
+ {
+  "doi": "10.1111/j.1540-6261.1996.tb02690.x",
+  "title": "Measuring Fund Strategy and Performance in Changing Economic Conditions",
+  "authors": [
+   "Ferson, W. E.",
+   "Schadt, R. W."
+  ],
+  "year": 1996,
+  "journal": "The Journal of Finance",
+  "volume": "51",
+  "issue": "2",
+  "pages": "425–461",
+  "cites": 1271
+ },
+ {
+  "doi": "10.1016/j.jfineco.2013.10.005",
+  "title": "Betting against beta",
+  "authors": [
+   "Frazzini, A.",
+   "Pedersen, L. H."
+  ],
+  "year": 2014,
+  "journal": "Journal of Financial Economics",
+  "volume": "111",
+  "issue": "1",
+  "pages": "1–25",
+  "cites": 1857
+ },
+ {
+  "doi": "10.1093/rfs/hhaa009",
+  "title": "Empirical Asset Pricing via Machine Learning",
+  "authors": [
+   "Gu, S.",
+   "Kelly, B.",
+   "Xiu, D."
+  ],
+  "year": 2020,
+  "journal": "The Review of Financial Studies",
+  "volume": "33",
+  "issue": "5",
+  "pages": "2223–2273",
+  "cites": 2594
+ },
+ {
+  "doi": "10.1086/260910",
+  "title": "Forward Exchange Rates as Optimal Predictors of Future Spot Rates: An Econometric Analysis",
+  "authors": [
+   "Hansen, L. P.",
+   "Hodrick, R. J."
+  ],
+  "year": 1980,
+  "journal": "Journal of Political Economy",
+  "volume": "88",
+  "issue": "5",
+  "pages": "829–853",
+  "cites": 0
+ },
+ {
+  "doi": "10.3905/jpm.2015.42.1.013",
+  "title": "Backtesting",
+  "authors": [
+   "Harvey, C. R.",
+   "Liu, Y."
+  ],
+  "year": 2015,
+  "journal": "The Journal of Portfolio Management",
+  "volume": "42",
+  "issue": "1",
+  "pages": "13–28",
+  "cites": 72
+ },
+ {
+  "doi": "10.1093/rfs/hhv059",
+  "title": "… and the Cross-Section of Expected Returns",
+  "authors": [
+   "Harvey, C. R.",
+   "Liu, Y.",
+   "Zhu, H."
+  ],
+  "year": 2015,
+  "journal": "Review of Financial Studies",
+  "volume": "29",
+  "issue": "1",
+  "pages": "5–68",
+  "cites": 2181
+ },
+ {
+  "doi": "10.1111/j.1540-6261.1993.tb04702.x",
+  "title": "Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency",
+  "authors": [
+   "Jegadeesh, N.",
+   "Titman, S."
+  ],
+  "year": 1993,
+  "journal": "The Journal of Finance",
+  "volume": "48",
+  "issue": "1",
+  "pages": "65–91",
+  "cites": 9910
+ },
+ {
+  "doi": "10.2307/2325404",
+  "title": "The Performance of Mutual Funds in the Period 1945-1964",
+  "authors": [
+   "Jensen, M. C."
+  ],
+  "year": 1968,
+  "journal": "The Journal of Finance",
+  "volume": "23",
+  "issue": "2",
+  "pages": "389",
+  "cites": 1010
+ },
+ {
+  "doi": null,
+  "title": "LightGBM: A highly efficient gradient boosting decision tree",
+  "authors": [
+   "Ke, G.",
+   "Meng, Q.",
+   "Finley, T.",
+   "Wang, T.",
+   "Chen, W.",
+   "Ma, W.",
+   "Ye, Q.",
+   "Liu, T.-Y."
+  ],
+  "year": 2017,
+  "journal": "Advances in Neural Information Processing Systems",
+  "volume": "30",
+  "issue": "",
+  "pages": "3146–3154",
+  "cites": 0
+ },
+ {
+  "doi": "10.1016/j.jfineco.2021.08.017",
+  "title": "Machine learning in the Chinese stock market",
+  "authors": [
+   "Leippold, M.",
+   "Wang, Q.",
+   "Zhou, W."
+  ],
+  "year": 2022,
+  "journal": "Journal of Financial Economics",
+  "volume": "145",
+  "issue": "2",
+  "pages": "64–82",
+  "cites": 594
+ },
+ {
+  "doi": "10.1016/j.jfineco.2019.03.008",
+  "title": "Size and value in China",
+  "authors": [
+   "Liu, J.",
+   "Stambaugh, R. F.",
+   "Yuan, Y."
+  ],
+  "year": 2019,
+  "journal": "Journal of Financial Economics",
+  "volume": "134",
+  "issue": "1",
+  "pages": "48–69",
+  "cites": 902
+ },
+ {
+  "doi": "10.2469/faj.v58.n4.2453",
+  "title": "The Statistics of Sharpe Ratios",
+  "authors": [
+   "Lo, A. W."
+  ],
+  "year": 2002,
+  "journal": "Financial Analysts Journal",
+  "volume": "58",
+  "issue": "4",
+  "pages": "36–52",
+  "cites": 646
+ },
+ {
+  "doi": "10.1111/j.1540-6261.1995.tb04795.x",
+  "title": "Returns from Investing in Equity Mutual Funds 1971 to 1991",
+  "authors": [
+   "Malkiel, B. G."
+  ],
+  "year": 1995,
+  "journal": "The Journal of Finance",
+  "volume": "50",
+  "issue": "2",
+  "pages": "549–572",
+  "cites": 1107
+ },
+ {
+  "doi": "10.1111/jofi.12365",
+  "title": "Does Academic Research Destroy Stock Return Predictability?",
+  "authors": [
+   "McLean, R. D.",
+   "Pontiff, J."
+  ],
+  "year": 2016,
+  "journal": "The Journal of Finance",
+  "volume": "71",
+  "issue": "1",
+  "pages": "5–32",
+  "cites": 1467
+ },
+ {
+  "doi": "10.2307/1913610",
+  "title": "A Simple, Positive Semi-Definite, Heteroskedasticity and Autocorrelation Consistent Covariance Matrix",
+  "authors": [
+   "Newey, W. K.",
+   "West, K. D."
+  ],
+  "year": 1987,
+  "journal": "Econometrica",
+  "volume": "55",
+  "issue": "3",
+  "pages": "703",
+  "cites": 16056
+ },
+ {
+  "doi": "10.1093/rfs/hhv063",
+  "title": "A Taxonomy of Anomalies and Their Trading Costs",
+  "authors": [
+   "Novy-Marx, R.",
+   "Velikov, M."
+  ],
+  "year": 2015,
+  "journal": "Review of Financial Studies",
+  "volume": "29",
+  "issue": "1",
+  "pages": "104–147",
+  "cites": 666
+ },
+ {
+  "doi": "10.1080/01621459.1994.10476870",
+  "title": "The Stationary Bootstrap",
+  "authors": [
+   "Politis, D. N.",
+   "Romano, J. P."
+  ],
+  "year": 1994,
+  "journal": "Journal of the American Statistical Association",
+  "volume": "89",
+  "issue": "428",
+  "pages": "1303–1313",
+  "cites": 2313
+ },
+ {
+  "doi": "10.1111/j.1468-0262.2005.00615.x",
+  "title": "Stepwise Multiple Testing as Formalized Data Snooping",
+  "authors": [
+   "Romano, J. P.",
+   "Wolf, M."
+  ],
+  "year": 2005,
+  "journal": "Econometrica",
+  "volume": "73",
+  "issue": "4",
+  "pages": "1237–1282",
+  "cites": 793
+ },
+ {
+  "doi": "10.1111/0022-1082.00263",
+  "title": "Mutual Fund Performance: An Empirical Decomposition into Stock‐Picking Talent, Style, Transactions Costs, and Expenses",
+  "authors": [
+   "Wermers, R."
+  ],
+  "year": 2000,
+  "journal": "The Journal of Finance",
+  "volume": "55",
+  "issue": "4",
+  "pages": "1655–1695",
+  "cites": 1330
+ },
+ {
+  "doi": "10.1111/1468-0262.00152",
+  "title": "A Reality Check for Data Snooping",
+  "authors": [
+   "White, H."
+  ],
+  "year": 2000,
+  "journal": "Econometrica",
+  "volume": "68",
+  "issue": "5",
+  "pages": "1097–1126",
+  "cites": 1377
+ }
+]
